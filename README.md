@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shivani 👋
 
-<!--
-**Shiiivaniii/Shiiivaniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at NIT Kurukshetra  
+💻 Interested in Web Development and Software Development  
+📚 Currently learning Full Stack Development and DSA  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+C • C++ • Java • Python • HTML • CSS • JavaScript • PHP • MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- IoT-Based Fruit Spoilage Detector
+- College Hostel Management System
+
+## 🌱 Currently Learning
+- React
+- Backend Development
+- Advanced DSA
+
+## 📫 Connect With Me
+- LinkedIn:https://www.linkedin.com/in/shivani-verma-829784355/
+- LeetCode:https://leetcode.com/u/Shivani__Verma/
