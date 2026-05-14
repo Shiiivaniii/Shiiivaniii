@@ -12,7 +12,6 @@ C • C++ • Java • Python • HTML • CSS • JavaScript • PHP • MySQL
 - College Hostel Management System
 
 ## 🌱 Currently Learning
-- React
 - Backend Development
 - Advanced DSA
 
